@@ -22,8 +22,6 @@ Nesta utlizei Spring (Gerenciamento de Dependência), Spring MVC (ou Spring REST
 Utilizei o básico sobre microsserviços. Implementando microsserviços usando o Spring Cloud.
 
 
-
-1018/5000
 ### O que eu fiz
 - desenvolvi e projetei serviços da Web RESTful
 - Configuração Centralizada do Microservice com o Spring Cloud Config Server
