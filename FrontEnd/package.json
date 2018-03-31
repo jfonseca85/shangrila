@@ -1,0 +1,36 @@
+{
+  "name": "e-commerce",
+  "version": "1.0.0",
+  "description": "Portal de Vendas",
+  "main": "loader.js",
+  "scripts": {
+    "dev": "nodemon",
+    "production": "pm2 start loader.js --name backend"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jfonseca85/e-commerce.git"
+  },
+  "keywords": [
+    "luis1234"
+  ],
+  "author": "jfonseca85",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jfonseca85/e-commerce/issues"
+  },
+  "homepage": "https://github.com/jfonseca85/e-commerce#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "express-query-int": "^3.0.0",
+    "lodash": "^4.17.5",
+    "mongo-paginate": "^1.1.0",
+    "mongoose": "^5.0.12",
+    "node-restful": "^0.2.6",
+    "pm2": "^2.10.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.17.2"
+  }
+}
