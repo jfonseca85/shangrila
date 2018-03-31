@@ -1,0 +1,35 @@
+#Inicio gitignore netflix-eureka-naming-server
+netflix-eureka-naming-server/.settings/*
+netflix-eureka-naming-server/target/*
+netflix-eureka-naming-server/project
+netflix-eureka-naming-server/.classpath
+netflix-eureka-naming-server/..DS_Store
+#fim gitignore netflix-eureka-naming-server
+
+#Inicio gitignore netflix-zuul-api-gateway-server
+netflix-zuul-api-gateway-server/.settings/*
+netflix-zuul-api-gateway-server/target/*
+netflix-zuul-api-gateway-server/project
+netflix-zuul-api-gateway-server/.classpath
+netflix-zuul-api-gateway-server/..DS_Store
+#fim gitignore netflix-zuul-api-gateway-server
+
+#Inicio gitignore spring-cloud-config-server
+spring-cloud-config-server/.settings/*
+spring-cloud-config-server/target/*
+spring-cloud-config-server/project
+spring-cloud-config-server/.classpath
+spring-cloud-config-server/..DS_Store
+#fim gitignore spring-cloud-config-server
+
+
+#inicio gitignore limits-service
+limits-service/.settings/*
+limits-service/target/*
+limits-service/project
+limits-service/.classpath
+limits-service/..DS_Store
+#fim gitignore limits-service
+
+
+
