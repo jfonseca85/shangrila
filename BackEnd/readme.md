@@ -61,7 +61,7 @@ O que o projeto contém
 
 | Aplicação | URL |
 | ------------- | ------------- |
-| Limita serviço | http://localhost:8080/limits POST -> http://localhost:8080/actuador/atualização |
+| Limita serviço | http://localhost:8080/limits POST -> http://localhost:8080/actuador/ |
 Spring Cloud Config Server | http://localhost:8888 /limits-service/ default http://localhost:8888/limits-service/dev |
 | Serviço de Serviço de Marketing Campaing - Chamada Direta |  |
 | Serviço de Socio Torcedor | http://localhost:8300/socio-torcedor-service/socios/ |
